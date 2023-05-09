@@ -2,10 +2,10 @@
 
 # Not-Your-Enemy
 
-**Not Your Enemy** (NYE) Outreach Application has gone by many names. It's current name is just our best effort to engage people on the street.  Change it, use it as you wish!  The application itself is a framework for outreach.  If you're like me - a bit of a nerd - you might be an extrovert, but that doesn't mean you always organize your thoughts well sharing the Gospel.  If that's you, than this app is an excellent scaffolding for Gospel Outreach.  It includes an ice breaker question, it has apologetic questions, an analysis of the problems in our world and an in-depth look at our personal culpability before God.
+**Not Your Enemy** (NYE) Outreach Application has gone by many names. It's current name is just our best effort to engage people on the street.  Change it, use it as you wish!  The application itself is a framework for outreach.  If you're like me - a bit of a nerd - you might be an extrovert, but that doesn't mean you always organize your thoughts well sharing the Gospel.  If that's you, than this app is an excellent scaffolding for Gospel Outreach.  The conversation flow of the application is as follows:
 
 - NYE begans with an ice-breaker question.  
-- NYE then looked at problems with the participants worldview.  At no point during this apologetic should a participant pushed toward an opinion.  The material is self-explanatory and exists to amplify cultural doubt. *(Can be skipped)*
+- We then look problems with the participants worldview.  At no point during this apologetic should a participant pushed toward an opinion.  The material is self-explanatory and exists to amplify cultural doubt. *(Can be skipped)*
 - The next portion questions the problems with the world as outlined by whichever religion was selected.  *(Can be skipped)*
 - The final section is a presentation of the individuals culpability before God and the solution in Christ or another religions attempted solution.
 
