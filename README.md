@@ -10,7 +10,7 @@ If you want to use this tool to help you stay on track during outreach, feel it 
 
 A build of the application is available - [Not Your Enemy 1.25 - APK](./RELEASE/not-your-enemy.apk)
 
-You will need to enable the installation of *unknown sources* on your Android device.
+- You will need to enable the installation of *unknown sources* on your Android device.
 
 ## Customization
 
