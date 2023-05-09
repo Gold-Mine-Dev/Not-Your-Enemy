@@ -4,13 +4,14 @@
 
 Not Your Enemy (NYE) Outreach Application has gone by many names. It's current name is just our best effort to engage people on the street.  Change it, use it as you wish!  The application itself is a framework for outreach.  If you're like me - a bit of a nerd - you might be an extrovert, but that doesn't mean you always organize your thoughts well sharing the Gospel.  If that's you, than this app is an excellent scaffolding for Gospel Outreach.  It includes an ice breaker question, it has apologetic questions, an analysis of the problems in our world and an in-depth look at our personal culpability before God.
 
-If you want to use this tool to help you stay on track during outreach, feel it would promote engagement or want to use it customize an outreach framework for your culture or region then feel free to use it!
+If you want to use this tool to help you stay on track during outreach, feel it would promote engagement or want to use it to create an outreach framework for your culture or region then feel free to use it!
 
 ## Release
 
 A build of the application is available - [Not Your Enemy 1.25 - APK](./RELEASE/not-your-enemy.apk)
 
 - You will need to enable the installation of *unknown sources* on your Android device.
+- This release can run on some very old hardware (don't have a list, but try this on your old device, you might be suprised)
 
 ## Customization
 
