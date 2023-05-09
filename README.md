@@ -16,7 +16,7 @@ You will need to enable the installation of *unknown sources* on your Android de
 
 Much of the structure of Outreach Conversation can not be changed without manually editing the application code.  Apologetic discussions and personal culpability can be changed somewhat by editing their JSON files in the assets folder. JSON *yes* and *no* values represent which slide to proceed to next (the absense of both values indicates and endpoint of a conversation section)
 
-Wording of all slides and all of the ice breaker questions can be edited in the projects default *strings.xml* file.
+Wording of all slides and all of the ice breaker questions can be edited in the projects default [strings.xml](/app/src/main/res/values/strings.xml) file.
 
 ## API
 
