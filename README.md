@@ -2,7 +2,7 @@
 
 # Not-Your-Enemy
 
-**Not Your Enemy** (NYE) Outreach Application has gone by many names. It's current name is just our best effort to engage people on the street.  Change it, use it as you wish!  The application itself is a framework for outreach.  If you're like me - a bit of a nerd - you might be an extrovert, but that doesn't mean you always organize your thoughts well sharing the Gospel.  If that's you, than this app is an excellent scaffolding for Gospel Outreach.  The conversation flow of the application is as follows:
+**Not Your Enemy** (NYE) Outreach Application has gone by many names. It's current name is just our best effort to engage people on the street.  Change it, use it as you wish!  The application itself is a framework for outreach.  If you're like me - a bit of a nerd - you might be an extrovert, but that doesn't mean you always organize your thoughts well sharing the Gospel.  If that's you, than this app is an excellent scaffolding for Gospel Outreach.  The conversational flow of the application is as follows:
 
 - NYE begans with an ice-breaker question.  
 - We then look problems with the participants worldview.  At no point during this apologetic should a participant pushed toward an opinion.  The material is self-explanatory and exists to amplify cultural doubt. *(Can be skipped)*
