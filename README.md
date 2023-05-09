@@ -18,11 +18,11 @@ Much of the structure of Outreach Conversation can not be changed without manual
 
 Wording of all slides and all of the ice breaker questions can be edited in the projects default [strings.xml](/app/src/main/res/values/strings.xml) file.
 
-## API
+## API (Optional)
 
 NYE has a server-side *PHP* based API in the [API](./API) folder of this release.  This is a simple email routing script (which uses *php-mailer*).  It uses your email provider to forward POST requests to a selected email.  In this manner you can forward basic outreach metrics (interviewee's belief and culpability statement) to your email.
 
-To configure this service, you will need to place the PHP script on your webserver.  The configuration details in the [config.php](./API/config.php) file of the API will need to be filled out with your email service providers details. In the Android project the [strings_config.xml](/app/src/main/res/values/strings_config.xml) file will need to be altered to point to the folder location of your API script.  Once *api_enabled* is set to true in *strings_config.xml* future APK builds will have the Send/Save feature enabled.
+To configure this service, you will need to place the PHP script on your webserver.  The configuration details in the [config.php](./API/config.php) file of the API will need to be filled out with your email service providers details. In the Android project the [strings_config.xml](/app/src/main/res/values/strings_config.xml) file will need to be altered to point to the folder location of your API script.  Once *api_enabled* is set to true in *strings_config.xml* future APK builds will have the Send/Save feature enabled. If this feature is not enabled, the Send/Save buttons in the app will be marked *unavailable*
 
 ## License
 
