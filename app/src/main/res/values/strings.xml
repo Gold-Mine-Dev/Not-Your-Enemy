@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Not Your Enemy</string>
+
+    <!-- Tutorial -->
+    <string name="diag_frag_2_text"><![CDATA[<h5>Our purpose is to offend you.</h5></br>
+The world is full of outrage and anger.  The Internet (<i>social media, online news, etc.</i>) often makes money off of our anger at others. Not Your Enemy (NYE) attempts to see how angry and outraged we really are at one another.  Even though someone holds a different idea, are we offended? Can we allow each others beliefs or are we only angry and outraged. We test your level of offense by asking questions about opposing beliefs to your own and by challenging your personal beliefs. NYE abides by the Nuremberg Ethics rules: <b>you may quit at any time</b>. Your answers may be used in research finds, however we do NOT collect any material that potentially identifies interviewees.]]></string>
+    <string name="frag_3_text_array">[\"If you could be famous, what would you be famous for?\",
+                                \"If all your clothes had to be one colour forever, what colour would you pick?\",
+                                \"If you had to be an animal, which animal would you be?\",
+                                \"If you could live any historical figure’s life, which one would you choose?\",
+                                \"If you could only listen to one song, which song would you pick?\",
+                                \"If you could pick one job to do forever (and money is no issue), what job would it be?\",
+                                \"If you could learn any one skill instantly, which would you pick?\",
+                                \"If you were given a free full-page ad in the newspaper what would you write?\",
+                                \"What did you want to be when you were  10 years old?\",
+                                \"If you had a time machine, would go back in time or into the future?\",
+                                \"If you could choose any two famous people to have dinner with who would they be?\"]</string>
+
+    <string name="frag_4_transition_text"><![CDATA[Let\'s look at popular objections to your belief]]></string>
+    <string name="frag_5_text"><![CDATA[If someone could show you that what you believe is incorrect, <b>would you change what you believe?</b>]]></string>
+
+    <string name="frag_8_transition_text"><![CDATA[What is the world\'s problem?]]></string>
+    <string name="frag_9_text"><![CDATA[The world is full of rape, theft, incest, murder, hate, racism and more. <b>What is the problem?</b>]]></string>
+    <string name="frag_10_text"><![CDATA[We identify and address the failures of people through law. <em><b>Let\'s examine the problem with the world</b> by examining law and justice.</em>]]></string>
+    <string name="frag_11_problem_title"> Problem</string>
+    <string name="frag_11_problem_subtitle"> discuss differences </string>
+    <string name="frag_12_law_title"> Law</string>
+    <string name="frag_12_law_subtitle"> discuss differences </string>
+    <string name="frag_13_transition_text"><![CDATA[Are you a good / innocent person?]]></string>
+    <string name="frag_14_text"><![CDATA[A good (uncorrupted) judge can not let a guilty person go free, <b>let\'s find out if you are good or guilty</b>]]></string>
+    <string name="frag_16_text"><![CDATA[According to your words, you are a…]]></string>
+    <string name="frag_17_text"><![CDATA[<b>At judgement, would you be innocent or guilty?</b>]]></string>
+    <string name="frag_18_punishment_title"> Punishment</string>
+    <string name="frag_18_punishment_subtitle"> discuss differences </string>
+    <string name="frag_19_text"><![CDATA[Based on the law <b>would you be going to paradise or hell?</b>]]></string>
+    <string name="frag_20_hope_title"> Hope</string>
+    <string name="frag_20_hope_subtitle"> discuss differences </string>
+    <string name="frag_21_text"><![CDATA[Submit analytics?]]></string>
+    <string name="frag_21_text_complete"><![CDATA[thank you]]></string>
+    <string name="frag_21_text_failed"><![CDATA[Fail! Retry?]]></string>
+
+    <string name="storage_string_key">storage_string</string>
+
+
+
+</resources>

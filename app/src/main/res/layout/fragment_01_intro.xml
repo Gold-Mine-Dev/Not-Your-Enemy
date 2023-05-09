@@ -1,0 +1,57 @@
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    tools:context="com.ldi19.notyourenemy.Fragment_01_Intro">
+
+    <ImageView
+        android:id="@+id/intro_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:clickable="false"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:clickable="false"
+        android:weightSum="10"
+        android:gravity="center">
+        <View
+            android:layout_width="1dip"
+            android:layout_height="0dip"
+            android:layout_weight="1"/>
+        <ImageView
+            android:id="@+id/intro_logo"
+            android:layout_height="0dip"
+            android:layout_width="match_parent"
+            android:layout_weight="8"
+            android:scaleType="fitCenter"
+            android:clickable="false"
+            android:src="@drawable/logo_large"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:weightSum="12"
+            android:orientation="horizontal"
+            >
+            <View
+                android:layout_width="0dip"
+                android:layout_height="1dip"
+                android:layout_weight="10"/>
+            <ImageView
+                android:layout_height="match_parent"
+                android:layout_width="0dip"
+                android:layout_weight="2"
+                android:layout_marginRight="10dip"
+                android:padding="10dip"
+                android:scaleType="centerInside"
+                android:clickable="false"
+                android:src="@drawable/time_in_minutes"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

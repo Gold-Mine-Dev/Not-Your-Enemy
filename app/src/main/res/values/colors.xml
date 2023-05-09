@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e8e8e8</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAlertButton">#f1813e</color>
+
+    <color name="colorIslam">#b8b8b8</color>
+    <color name="colorAtheist">#9a9a9a</color>
+    <color name="colorHindu">#f4a276</color>
+    <color name="colorChristian">#f1813e</color>
+
+    <color name="colorIslamLight">#c9c9c9</color>
+    <color name="colorAtheistLight">#b3b3b3</color>
+    <color name="colorHinduLight">#f6b998</color>
+    <color name="colorChristianLight">#f4a06e</color>
+</resources>

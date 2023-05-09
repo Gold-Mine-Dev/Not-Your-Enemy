@@ -1,0 +1,4 @@
+<resources>
+    <string name="api_enabled">false</string>
+    <string name="api_url">https://api.example.io</string>
+</resources>
